@@ -13,3 +13,4 @@ This page documents our functions and examples.
 
    usage
    contribute
+   autoapi/index
