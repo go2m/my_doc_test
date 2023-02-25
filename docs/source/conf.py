@@ -57,7 +57,7 @@ html_context = {
 }
 
 # -- Options for HTML output -------------------------------------------------
-'''
+
 html_short_title = "topobathy"
 html_show_sourcelink = False
 html_show_sphinx = True
@@ -80,4 +80,4 @@ html_context = {
         ),
     ],
 }
-'''
+
