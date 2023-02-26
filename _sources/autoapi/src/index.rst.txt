@@ -1,0 +1,18 @@
+:py:mod:`src`
+=============
+
+.. py:module:: src
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   module1/index.rst
+   module2/index.rst
+   module3/index.rst
+   module4/index.rst
+
+
